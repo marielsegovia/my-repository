@@ -1,3 +1,3 @@
 # my-repository
 
-blah blah
+learning github!
